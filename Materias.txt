@@ -1,0 +1,5 @@
+0001		-	Matemáticas	-	Mats
+0002		-	Ciencias	-	CC
+0003		-	Lengua		-	L
+0004		-	Música		-	Mus
+0005		-	Ed.Física	-	EdF

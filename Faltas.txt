@@ -1,0 +1,5 @@
+25/02/2017	-	1		-	Enfermedad	-	Injustificada	-	467098
+27/02/2017	-	2		-	Act.Extraesc.	-	Justificada	-	746382
+28/02/2017	-	3		-	Prob. Pers.	-	Injustificada	-	728394
+3/3/2017	-	4		-	Enfermedad	-	Justificada	-	948572
+7/3/2017	-	5		-	Enfermedad	-	Injustificada	-	826374
